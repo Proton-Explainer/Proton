@@ -1,0 +1,73 @@
+
+**Malware**  
+Malware is anything that is intentionally designed to cause disruption to a computer, leak private information, gain unauthorized access to information or systems, or deprive access to information. It can unknowingly interfere with the user's computer security and privacy. 
+
+**Virus**  
+A computer virus is a type of malware that, when executed, replicates itself by modifying other computer programs and inserting its own code into those programs. If this replication succeeds, the affected areas are then said to be infected. Viruses generally require a host program, writing their own code into it. When the host program runs, it executes its own code first, causing infection and damage. This usually results in system failure, data corruption, wasted computer resources, increased maintenance costs, or stealing personal information.
+
+**Worm**  
+A computer worm is a standalone malware program that replicates itself to spread to other computers, often using a network to do so. Worms rely on security failures on the target computer to access it. Once these new infected computers are controlled, the worm will continue to scan and infect other computers exponentially. Worms typically cause harm to the network by consuming bandwidth, while viruses usually corrupt or modify files on a targeted computer.
+
+**Trojan**  
+A Trojan horse is any malware that misleads users about its true intent by disguising itself as a standard program. Trojans are generally spread through social engineering tactics, such as duping users into executing an email attachment disguised as innocuous or by clicking on fake advertisements. The damage caused by a Trojan depends on the specific malware since it does not attempt to inject itself into other files or propagate.
+
+**Malvertising**  
+Malvertising refers to the use of advertising on reputable websites to spread malware without requiring user action. This method can easily spread across numerous legitimate websites without directly compromising them.
+
+**RAT (Remote Access Trojan)**  
+RAT is a type of malware that remotely controls a computer through the internet. Once infected, hackers can control various functions of the computer silently and often act as keyloggers.
+
+**Backdoor**  
+A backdoor refers to any method allowing authorized and unauthorized users to bypass normal security measures. Cybercriminals can use backdoors to steal personal data or install additional malware.
+
+**Rootkit**  
+A rootkit is a collection of malicious software tools that give threat actors remote access and control over a computer. While some rootkits have legitimate uses, most open backdoors for further attacks and can prevent detection by deactivating antivirus software.
+
+**Spyware**  
+Spyware infects computers and secretly gathers information about users, including browsing history and personal data. This information is often sent to cybercriminals who may sell or misuse it.
+
+**Keylogger**  
+A keylogger records every keystroke made on a keyboard and sends this data to cybercriminals, primarily capturing passwords and confidential information.
+
+**Ransomware**  
+Ransomware blocks access to personal data unless a ransom is paid. Some ransomware simply locks systems without damaging files, while more advanced versions may employ techniques like fileless malware.
+
+**Adware**  
+Adware installs itself on systems without user knowledge and displays advertisements while browsing the internet. Some adware also acts as spyware by collecting user data for targeted advertising.
+
+**RAM Scraper**  
+RAM scrapers are used in point-of-sale systems to collect sensitive information like credit card numbers.
+
+**DDoS Attack**  
+A DDoS attack makes a computer or connection unavailable by flooding it with excessive files from multiple sources, often using infected computers as bots in a botnet.
+
+**Browser Hijacking**  
+Browser hijacking changes web browser settings without permission, injecting unwanted ads or altering homepage settings.
+
+**Cryptojacking**  
+Cryptojacking exploits computers to mine cryptocurrencies secretly, risking hardware damage due to excessive resource use.
+
+**Rogue Security Software**  
+This form of internet fraud misleads users into believing their computer has a virus and convinces them to pay for fake malware removal tools that install real malware instead.
+
+**Phishing**  
+Phishing scams deceive individuals into revealing sensitive information or installing malware by impersonating reputable sources via email or phone calls.
+
+**Hybrid Malware**  
+Hybrid malware refers to attacks that use two or more types of malware simultaneously, often combining Trojans with worms or adware with viruses.
+
+**Brute Force Attack**  
+A brute force attack involves systematically checking all possible passwords until the correct one is found using automated software. 
+
+**Wiper Malware**  
+Wiper malware erases a computer's memory against the user's will, destroying all useful information in the process.
+
+**Social Engineering**  
+Social engineering involves manipulating individuals into divulging confidential information or installing malware without requiring any technical means.
+
+--- 
+
+This version excludes all time stamps while preserving the original content's structure and meaning.
+
+Citations:
+[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/34916537/ad545b4e-1af1-4d96-9011-22b8f17d66ba/paste.txt
